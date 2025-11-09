@@ -17,8 +17,9 @@
 
 <!-- Moon banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=courier&size=28&duration=7000&pause=2000&color=b3b3b3&center=true&vCenter=true&width=1800&lines=moon+or+richie++%5C%5C++yumeshipper+%26+fictkin++%5C%5C++writer+%26+artist" alt="moon banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=courier&size=28&duration=7000&pause=2000&color=b3b3b3&center=true&vCenter=true&width=1800&lines=moon+or+richie+%2C+17+%2F%2F+yumeshipper+%26+fictkin+%2F%2F+writer+%26+artist" alt="moon banner" />
 </p>
+
 
 
 <p align="center">
