@@ -48,6 +48,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=23&duration=2000&pause=500&color=425756&center=true&vCenter=true&width=100&lines=%CB%8E%CB%8A%CB%97" alt="right deco" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314b5pbne45y575ipjt3n4kec47e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ff80a6&bar_color_cover=false" alt="Spotify Profile" />
+  </a>
+</p>
+
+
 
 
 # ‎ ‎ ‎ 
