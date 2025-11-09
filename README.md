@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-    <img width="400" src="https://i.postimg.cc/hjkBvGvS/tumblr-5978a0fd780dad45248df86218dac02c-caf173cf-540.png" alt="reddie">
+    <img width="350" src="https://i.postimg.cc/hjkBvGvS/tumblr-5978a0fd780dad45248df86218dac02c-caf173cf-540.png" alt="reddie">
 </p>
 
 <p align="center">
-    <img width="400" src="https://i.postimg.cc/xCJQ9m03/tumblr-3cc546d18e7cf0ac63c202444ef25bab-29fba0d8-540.png" alt="reddie">
+    <img width="350" src="https://i.postimg.cc/xCJQ9m03/tumblr-3cc546d18e7cf0ac63c202444ef25bab-29fba0d8-540.png" alt="reddie">
 </p>
 
 <p align="center">
