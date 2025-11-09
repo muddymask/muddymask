@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=5000&pause=2000&color=425756&center=true&vCenter=true&width=1800&lines=feel+free+to+leave+a+message+or+drawing,+i+dont+bite+%F0%9F%A4%8D" alt="message banner" />
-</p>
-
-<p align="center">
     <img width="350" src="https://64.media.tumblr.com/dc77a4aa87c565342b6a40ad182de6bc/7c318399bf42617d-c6/s540x810/fbfa05014af1ee97bc5a7e7c7b2c65187ef0d609.gifv" alt="rich">
 </p>
 
