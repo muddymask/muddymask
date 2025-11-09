@@ -9,7 +9,7 @@
 
 <!-- Strawpage message -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=6000&pause=2000&color=99B3A6&center=true&vCenter=true&width=1800&lines=%3C+my+strawpage+has+all+my+links+3" alt="strawpage banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=7000&pause=2000&color=99B3A6&center=true&vCenter=true&width=1800&lines=%3C+my+strawpage+has+all+my+links+3" alt="strawpage banner" />
 </p>
 
 <!-- Moon banner -->
@@ -28,7 +28,7 @@
 
 <!-- Symbols banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=6000&pause=2000&color=99B3A6&center=true&vCenter=true&width=1800&lines=.++%DB%81%E2%82%95+%E2%8A%B9+.++%DB%81%CB%96+.++%DB%81" alt="symbols banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=7000&pause=2000&color=99B3A6&center=true&vCenter=true&width=1800&lines=.++%DB%81%E2%82%95+%E2%8A%B9+.++%DB%81%CB%96+.++%DB%81" alt="symbols banner" />
 </p>
 
 
