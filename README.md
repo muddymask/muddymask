@@ -1,24 +1,27 @@
 # ‎ ‎ ‎ 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=muddymask&color=f0b95b&style=flat&label=🌻" />
 </p>
 
 
 <p align="center">
-    <img width="900" src="https://64.media.tumblr.com/089c7ba44b58c93b7e982313e387591c/7c318399bf42617d-dd/s540x810/8b84e843c4f0ca11c2027681f27a0d1c91cbd02a.gifv">
+    <img width="900" src="https://i.postimg.cc/Dfr1KWJk/tumblr-aaec6b44a77404ccda7222f51bfdf5d8-c8d1b0a2-540.webp">
 </p>
-
 
 <!-- Strawpage banner --> 
 <div align="center"> 
-    <img src="https://readme-typing-svg.demolab.com?font=courier&size=28&duration=7000&pause=2000&color=d4d4d4&center=true&vCenter=true&width=1800&lines=%3C+my+strawpage+has+all+my+links+3" alt="strawpage banner" 
+<img src="https://readme-typing-svg.demolab.com?&size=24&duration=7000&pause=2000&color=f0b95b&center=true&vCenter=true&width=1800&lines=%3C+my+strawpage+has+all+my+links+3" 
+alt="strawpage banner" 
 /> 
 </div>
 
-<!-- Moon banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=courier&size=28&duration=7000&pause=2000&color=b3b3b3&center=true&vCenter=true&width=1800&lines=moon+or+richie+%2C+17+%2F%2F+yumeshipper+%26+fictkin+%2F%2F+writer+%26+artist" alt="moon banner" />
+<!-- Moon banner --> 
+<p align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?&size=24&duration=7000&pause=2000&color=b3b3b3&center=true&vCenter=true&width=1800&lines=moon+or+richie+%2C+17+%2C+yumeshipper+%26+fictkin+%2C+writer+%26+artist" 
+  alt="moon banner" /> 
 </p>
+
+
 
 
 
@@ -26,20 +29,21 @@
     <img width="350" src="https://i.postimg.cc/h4CZq1MH/output-onlinepngtools-2.png" alt="banner">
 </p>
 
-<p align="left">
-    <img width="330" src="https://64.media.tumblr.com/2bbc3ab1eeb5f22ff1d64945ab9a099e/e1aed535dca23fc5-56/s640x960/85d3e1dd945082587f5644e04b2fa442e9cd601a.pnj" alt="banner">
+<p align="center">
+    <img width="330" src="https://i.postimg.cc/kGsVRbKq/tumblr-b055ef93f50d2663b6ecac4436f4e84b-449185ea-1280.png" alt="banner">
 </p>
 
-<p align="right">
-    <img width="400" src="https://i.postimg.cc/hjkBvGvS/tumblr-5978a0fd780dad45248df86218dac02c-caf173cf-540.png" alt="rich">
+<p align="center">
+    <img width="400" src="https://i.postimg.cc/cJkXwv7p/176298508838316409.png" alt="rich">
 </p>
 
-<p align="left">
-    <img width="400" src="https://i.postimg.cc/xCJQ9m03/tumblr-3cc546d18e7cf0ac63c202444ef25bab-29fba0d8-540.png" alt="eds">
+<p align="center">
+    <img width="350" src="https://i.postimg.cc/kGsVRbKq/tumblr-b055ef93f50d2663b6ecac4436f4e84b-449185ea-1280.png" alt="banner">
 </p>
 
-<p align="right">
-    <img width="350" src="https://64.media.tumblr.com/2bbc3ab1eeb5f22ff1d64945ab9a099e/e1aed535dca23fc5-56/s640x960/85d3e1dd945082587f5644e04b2fa442e9cd601a.pnj" alt="banner">
+
+<p align="center">
+    <img width="400" src="https://i.postimg.cc/g07HrfdB/176298512454692613.png" alt="eds">
 </p>
 
 <p align="center">
@@ -47,7 +51,7 @@
 </p>
 
 <p align="center">
-    <img width="900" src="https://64.media.tumblr.com/089c7ba44b58c93b7e982313e387591c/7c318399bf42617d-dd/s540x810/8b84e843c4f0ca11c2027681f27a0d1c91cbd02a.gifv">
+    <img width="900" src="https://i.postimg.cc/Dfr1KWJk/tumblr-aaec6b44a77404ccda7222f51bfdf5d8-c8d1b0a2-540.webp">
 </p>
 
 # ‎ ‎ ‎ 
