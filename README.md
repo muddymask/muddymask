@@ -63,12 +63,6 @@ alt="other banner"
 /> 
 </div>
 
-<!-- Other2 banner --> 
-<p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?&size=24&duration=7000&pause=2000&color=b3b3b3&center=true&vCenter=true&width=1800&lines=dni+other+richie+kins" 
-  alt="other2 banner" /> 
-</p>
-
 
 
 # ‎ ‎ ‎ 
