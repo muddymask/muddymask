@@ -1,21 +1,21 @@
 # ‎ ‎ ‎ 
 <p align="center">
-    <img width="700" src="https://i.postimg.cc/4NbCt1Yj/tumblr-ed8fdf2fc5b7c33848195f5630fef746-8328a8be-2048.png">
+    <img width="700" src="https://64.media.tumblr.com/b921c466430f7aa6f4509d516769f345/d083df8da3513e0a-84/s640x960/68b1f6f7b04655b1a9fff7df1a552dd19c09bd89.pnj">
 </p>
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muddymask&color=f0b95b&style=flat&label=🌻" />
+  <img src="https://komarev.com/ghpvc/?username=muddymask&color=b5474e&style=flat&label=🎈" />
 </p>
 
 
 <p align="center">
-    <img width="900" src="https://i.postimg.cc/Dfr1KWJk/tumblr-aaec6b44a77404ccda7222f51bfdf5d8-c8d1b0a2-540.webp">
+    <img width="900" src="https://64.media.tumblr.com/a9fe519b346a6cdcce9f6ed7e565acb7/47fdab7d42b4ccbf-37/s2048x3072/fff9509bb74ab1b2a92665ca22bce5deb327148d.pnj">
 </p>
 
 <!-- Strawpage banner --> 
 <div align="center"> 
-<img src="https://readme-typing-svg.demolab.com?&size=24&duration=7000&pause=2000&color=f0b95b&center=true&vCenter=true&width=1800&lines=%3C+my+strawpage+has+all+my+links+3" 
+<img src="https://readme-typing-svg.demolab.com?&size=24&duration=7000&pause=2000&color=b5474e&center=true&vCenter=true&width=1800&lines=%3C+my+strawpage+has+all+my+links+3" 
 alt="strawpage banner" 
 /> 
 </div>
@@ -32,24 +32,21 @@ alt="strawpage banner"
 
 
 <p align="center">
-    <img width="350" src="https://i.postimg.cc/h4CZq1MH/output-onlinepngtools-2.png" alt="banner">
-</p>
-
-<p align="center">
-    <img width="330" src="https://i.postimg.cc/kGsVRbKq/tumblr-b055ef93f50d2663b6ecac4436f4e84b-449185ea-1280.png" alt="banner">
-</p>
-
-<p align="center">
-    <img width="400" src="https://i.postimg.cc/cJkXwv7p/176298508838316409.png" alt="rich">
-</p>
-
-<p align="center">
-    <img width="350" src="https://i.postimg.cc/kGsVRbKq/tumblr-b055ef93f50d2663b6ecac4436f4e84b-449185ea-1280.png" alt="banner">
+    <img width="350" src="https://64.media.tumblr.com/8a46e75b3c959581e6d4bf2687c8afea/13b15821a9a5bfce-79/s640x960/6c7a3133a835142c1067868f8d003e528ffe347e.pnj" alt="banner">
 </p>
 
 
 <p align="center">
-    <img width="400" src="https://i.postimg.cc/g07HrfdB/176298512454692613.png" alt="richagain">
+    <img width="400" src="https://i.postimg.cc/MpgD0cwh/them.webp" alt="rich">
+</p>
+
+<p align="center">
+    <img width="350" src="https://64.media.tumblr.com/8a46e75b3c959581e6d4bf2687c8afea/13b15821a9a5bfce-79/s640x960/6c7a3133a835142c1067868f8d003e528ffe347e.pnj" alt="banner">
+</p>
+
+
+<p align="center">
+    <img width="400" src="https://i.postimg.cc/rpnQdhmZ/176314821517928627-1.png" alt="richagain">
 </p>
 
 <p align="center">
@@ -58,7 +55,7 @@ alt="strawpage banner"
 
 <!-- Other banner --> 
 <div align="center"> 
-<img src="https://readme-typing-svg.demolab.com?&size=24&duration=7000&pause=2000&color=f0b95b&center=true&vCenter=true&width=1800&lines=%22guess+you+could+say+that+was+long+overdue.+get+it%3F+%27cause+we%27re+in+a...+library.%22" 
+<img src="https://readme-typing-svg.demolab.com?&size=24&duration=7000&pause=2000&color=b5474e&center=true&vCenter=true&width=1800&lines=%22guess+you+could+say+that+was+long+overdue.+get+it%3F+%27cause+we%27re+in+a...+library.%22" 
 alt="other banner" 
 /> 
 </div>
@@ -69,13 +66,13 @@ alt="other banner"
 
 
 <p align="center">
-    <img width="900" src="https://i.postimg.cc/Dfr1KWJk/tumblr-aaec6b44a77404ccda7222f51bfdf5d8-c8d1b0a2-540.webp">
+    <img width="900" src="https://64.media.tumblr.com/a9fe519b346a6cdcce9f6ed7e565acb7/47fdab7d42b4ccbf-37/s2048x3072/fff9509bb74ab1b2a92665ca22bce5deb327148d.pnj">
 </p>
 
 
 
 <p align="center">
-    <img width="700" src="https://i.postimg.cc/cLspc8Y0/tumblr-e266a9a017bedb61f583f088ef1c0d7c-ae7adfc4-2048.png">
+    <img width="700" src="https://64.media.tumblr.com/b8c2e2f9523e706a3c27656fc182d23c/d083df8da3513e0a-e5/s640x960/7f01961cc942b2795d5421dc17144900ddfc605a.pnj">
 </p>
 
 # ‎ ‎ ‎ 
