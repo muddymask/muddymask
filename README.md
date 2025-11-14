@@ -37,7 +37,7 @@ alt="strawpage banner"
 
 
 <p align="center">
-    <img width="400" src="https://i.postimg.cc/MpgD0cwh/them.webp" alt="rich">
+    <img width="400" src="https://i.postimg.cc/CKTw3NSz/176314839325553573.gif" alt="rich">
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ alt="strawpage banner"
 
 
 <p align="center">
-    <img width="400" src="https://i.postimg.cc/rpnQdhmZ/176314821517928627-1.png" alt="richagain">
+    <img width="400" src="https://i.postimg.cc/1X9tLK0m/176314830623842707.png" alt="richagain">
 </p>
 
 <p align="center">
