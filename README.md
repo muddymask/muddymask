@@ -24,7 +24,6 @@ $\color{#FFFFFF}{\textsf{BFYI}}$ <br>
       $\color{#D8DAD4}{\textsf{c+h is fine, just don't be weird}}$ <br>
       $\color{#D8DAD4}{\textsf{usually always off tab so w2i}}$ <br>
       $\color{#D8DAD4}{\textsf{not super active}}$ <br>
-      $\color{#FFFFFF}{\textsf{i'm a minor}}$ <br>
       $\color{#FFFFFF}{\textsf{i swear a lot}}$ <br>
       $\color{#FFFFFF}{\textsf{pj ransone obsessed}}$ <br>
       $\color{#FFFFFF}{\textsf{bill hader lover}}$ <br>
