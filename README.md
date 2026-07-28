@@ -11,10 +11,10 @@
 
 <h6 align="center">
  
- ![profileviews](https://komarev.com/ghpvc/?username=pjpupper&style=plastic&label=otters+&color=6C2A13&abbreviated=true)
+ ![profileviews](https://komarev.com/ghpvc/?username=pjpupper&style=plastic&label=otters+&color=000000&abbreviated=true)
 
 
-<img width="690" height="400" alt="image" src="https://i.postimg.cc/mkZGsq34/a.webp" />
+<img width="600" height="400" alt="image" src="https://i.postimg.cc/wjq5GQZK/a.jpg" />
 
 $\color{#FFFFFF}{\textsf{BFYI}}$ <br>
 
