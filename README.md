@@ -88,7 +88,7 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
   <p align="center">
   </p>
  <p align="center">
- <img src="https://i.postimg.cc/HsHZqWpf/050815ae.png"/> <img src="https://i.postimg.cc/KvFq6cZ5/white.jpg"/> <img src="https://i.postimg.cc/Yqkn52pV/7f65ed4d.png"/> <img stsrc="https://i.postimg.cc/CLYP3MFm/blinkies-Cafe-f5.gif"/> <img src="https://i.postimg.cc/15PCkR9C/white.png"/> <img src="https://i.postimg.cc/rFcnBy87/fbe651b7.png"/> <img src="https://i.postimg.cc/kX910MnY/6588a2ab.gif"/> <br>
+ <img src="https://i.postimg.cc/HsHZqWpf/050815ae.png"/> <img src="https://i.postimg.cc/KvFq6cZ5/white.jpg"/> <img src="https://i.postimg.cc/Yqkn52pV/7f65ed4d.png"/> <img stsrc="https://i.postimg.cc/CLYP3MFm/blinkies-Cafe-f5.gif"/> <img src="https://i.postimg.cc/15PCkR9C/white.png"/>  <img src="https://i.postimg.cc/kX910MnY/6588a2ab.gif"/> <img src="https://i.postimg.cc/zG7qbwSh/25c9efcb.png"/> <img src="https://i.postimg.cc/RZdv61Qn/7x8gj3.png"/> <img src="https://i.postimg.cc/13Byn0c6/ae3d822d.gif"/> <img src="https://i.postimg.cc/HkzTc04r/99dhb0.png"/> <img src="https://i.postimg.cc/wj29y5c7/bxpvkl.png"/> <img src="https://i.postimg.cc/JzxRD3cD/yf3r44.png"/> <br>
    <img src="https://i.postimg.cc/CLYP3MFm/blinkies-Cafe-f5.gif"/> <img src="https://i.postimg.cc/SNqTBQyg/blinkies-Cafe-l-F.gif"/> <img
 </p>
 </details>
