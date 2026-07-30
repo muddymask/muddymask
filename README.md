@@ -82,3 +82,13 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314b5pbne45y575ipjt3n4kec47e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
   <br/>
+
+  <details>
+  <summary> $\color{#a8a7a7}{\textsf{s}}\color{#757474}{\textsf{t}}\color{#595959}{\textsf{a}}\color{#474747}{\textsf{m}}\color{#383838}{\textsf{p}}\color{#2b2b2b}{\textsf{s}}\color{#2b2b2b}{\textsf{‎ and blinkies}}$ </summary>
+  <p align="center">
+  </p>
+ <p align="center">
+ <img src="https://i.postimg.cc/HsHZqWpf/050815ae.png"/> <img src="https://i.postimg.cc/KvFq6cZ5/white.jpg"/> <img src="https://i.postimg.cc/Yqkn52pV/7f65ed4d.png"/> <img stsrc="https://i.postimg.cc/CLYP3MFm/blinkies-Cafe-f5.gif"/> <img src="https://i.postimg.cc/15PCkR9C/white.png"/> <img src="https://i.postimg.cc/rFcnBy87/fbe651b7.png"/> <img src="https://i.postimg.cc/kX910MnY/6588a2ab.gif"/> <br>
+   <img src="https://i.postimg.cc/CLYP3MFm/blinkies-Cafe-f5.gif"/> <img src="https://i.postimg.cc/SNqTBQyg/blinkies-Cafe-l-F.gif"/> <img
+</p>
+</details>
